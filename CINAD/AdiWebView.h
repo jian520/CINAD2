@@ -1,0 +1,4 @@
+@interface AdiWebView : TTWebController 
+ 
+ 
+@end

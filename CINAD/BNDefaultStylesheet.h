@@ -1,0 +1,4 @@
+
+@interface BNDefaultStyleSheet : TTDefaultStyleSheet
+
+@end
